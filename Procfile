@@ -1,2 +1,2 @@
 release: python backend/manage.py migrate --noinput
-web: gunicorn realestate.wsgi
+web: gunicorn backend.wsgi
