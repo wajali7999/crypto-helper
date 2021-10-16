@@ -29,7 +29,7 @@ class Prices extends React.PureComponent {
     }
 
     getPrices = () => {
-        axios.get(`http://localhost:8000/prices/`)
+        axios.get(`https://crypto-app-wajahat.herokuapp.com/prices/`)
             .then(res => {
                 this.setState({ Prices: res.data })
         })
