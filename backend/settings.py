@@ -27,7 +27,7 @@ SECRET_KEY = 'eru*-or3xa2wwpl2ts1l8&^bvba138$+!l=gib^%1lhip0bs6$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crypto-app-wajahat.herokuapp.com', 'localhost']
 
 
 # Application definition
