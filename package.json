@@ -2,6 +2,7 @@
   "name": "crypto-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/crypto-frontend",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.14.1",
